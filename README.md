@@ -1,2 +1,2 @@
 # shell-script
-this repository contains shell script programs 
+This repository contains executed shell script programs 
