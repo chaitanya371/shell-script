@@ -1,3 +1,5 @@
+# shell script to find the file type using case statement 
+
 $ cat filetype.sh
 #!/bin/bash
 
